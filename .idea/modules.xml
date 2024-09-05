@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tipos-Variaveis/Tipos-Variaveis.iml" filepath="$PROJECT_DIR$/Tipos-Variaveis/Tipos-Variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+    </modules>
+  </component>
+</project>
